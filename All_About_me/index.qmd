@@ -1,6 +1,6 @@
 # UTS-1 All About Me
 
-![About Me](../images/AZRL.png){width=950%}
+![About Me](../images/AZRL.png){width=100%}
 
 Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
 
@@ -15,7 +15,7 @@ Apa gagasan yang sedang ia pikirkan?
 
 Manusia adalah pencerita alami. Sejak zaman dahulu, kita selalu berusaha memahami kekacauan hidup dengan merangkainya menjadi sebuah cerita. Para ahli bahkan menyebut kita sebagai "organisme pencerita" (*storytelling organisms*) yang menjalani "kehidupan yang penuh cerita" (*storied lives*) (2). Proses ini bukanlah sekadar menyusun fakta, melainkan sebuah proses aktif untuk menciptakan makna.
 
-[Hayu dengar poscastnya](./audio/Identitas_Naratif__Jadi_Sutradara_dan_Penulis_Kisah_Hidup_Anda_.mp4)
+[Hayu dengar poscastnya](../audio/Identitas_Naratif__Jadi_Sutradara_dan_Penulis_Kisah_Hidup_Anda_.mp4)
 
 Kisah personal yang terus berkembang inilah yang disebut para psikolog sebagai **"identitas naratif"**—sebuah cerita yang kita bangun untuk memahami keberadaan kita, dengan menghubungkan masa lalu, masa kini, dan masa depan kita menjadi satu kesatuan yang utuh (3, 8). Cerita batin ini adalah proses *penciptaan diri* yang aktif, bukan sekadar menceritakan ulang kejadian. Kisah inilah yang menjawab pertanyaan-pertanyaan paling mendasar: "Siapa saya? Bagaimana saya sampai di sini? Ke mana saya akan pergi?" (5, 6).
 
