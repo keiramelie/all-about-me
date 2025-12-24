@@ -3,24 +3,35 @@ project:
   output-dir: docs
 
 book:
-  title: "Keira Amelie Hanayesha"
+  title: "Ellaine Juvina"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "18224003 Keira Amelie Hanayesha"
-  date: "10/19/2025"
+  author: "18224071 Ellaine Juvina"
+  date: "10/18/2025"
   chapters:
-    - index.qmd
-    - All_About_me/index.qmd
-    - My_Song_for_You/index.qmd
-    - My_Stories_for_You/index.qmd
-    - My_Shapes/index.qmd
-    - My_Personal_Reviews/index.qmd
-    - My_Concepts/index.qmd
-    - My_Opinions/index.qmd
-    - My_Innovations/index.qmd
-    - My_Knowledge/index.qmd
-    - My_Professional_Reviews/index.qmd
-    - summary.qmd
-    - references.qmd
+    - part: "🎭 Bagian Personal"
+      chapters:
+        - index.qmd
+        - intro.qmd
+        - My_Song_for_You/index.qmd
+        - My_Stories_for_You/index.qmd
+
+    - part: "📊 Bagian Analitis"
+      chapters:
+        - My_Shapes/index.qmd
+        - My_Personal_Reviews/index.qmd
+        - My_Concepts/index.qmd
+
+    - part: "💼 Bagian Profesional"
+      chapters:
+        - My_Opinions/index.qmd
+        - My_Innovations/index.qmd
+        - My_Knowledge/index.qmd
+        - My_Professional_Reviews/index.qmd
+
+    - part: "📖 Penutup"
+      chapters:
+        - summary.qmd
+        - references.qmd
 
 bibliography: references.bib
 
@@ -29,6 +40,3 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-
-
-

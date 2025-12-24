@@ -1,51 +1,108 @@
-# UTS-2 My Songs for You
+---
+title: "UTS-2 My Songs for You: The Quiet Hearth"
+subtitle: "Pesan untuk Relasi Intim: Janji Ketahanan dan Ruang Bebas"
+author: "Aucloire"
+date: "22 October 2025"
+format: 
+  html:
+    toc: false
+    css: styles.css 
+    self-contained: true
+    number-sections: true
+---
 
-## About: Rain Watching
+# My Songs for You: The Quiet Hearth {.unnumbered}
+
+## 1. Tentang Karya: Pesan Moralitas dan Proses Bertumbuh {.unnumbered}
 
 <p style="text-align: justify;">
-“Halfway Home” adalah lagu bernuansa indie soul-pop yang menyelami ruang sunyi di antara mencintai dan melepaskan. Dibangun di atas petikan gitar lo-fi yang lembut dan vokal yang terasa mentah, lagu ini menggambarkan momen ketika dua hati masih saling terikat, tapi sudah tahu mereka berjalan ke arah yang berbeda.
-Suasananya hangat tapi melankolis — seperti duduk di kamar saat sore turun hujan, mencoba menenangkan diri dari sesuatu yang tak bisa diselamatkan. Vokalnya dekat, hampir berbisik, seakan penyanyinya sedang jujur pada dirinya sendiri untuk pertama kali.
-Dengan aransemen minimalis dan sentuhan soul akustik, “Halfway Home” membawa pendengar pada perjalanan emosional yang sederhana tapi dalam — tentang kehilangan, keterikatan, dan keberanian untuk perlahan pergi meski hati belum sepenuhnya siap.
+“The Quiet Hearth” adalah pesan yang saya tujukan kepada **relasi intim** (keluarga/sahabat), yang saya buat sebagai janji dan refleksi proses bertumbuh. Lagu ini menceritakan tentang **ketahanan (resilience) yang sunyi**—bahwa semua upaya dan fokus yang terlihat dari luar adalah sebuah pembangunan fondasi untuk masa depan yang tenang dan bebas dari beban. Pesan utamanya sederhana: **setiap kesulitan harus diubah menjadi pendorong, bukan alasan untuk berhenti.**
 </p>
 
-{{< video https://youtu.be/KWthEImJ9mY?si=iUV8Ghhj0R3gKQyZ>}}, with lyrics
+<p style="text-align: justify;">
+Karya ini selaras dengan pembelajaran di mata kuliah Komunikasi Interpersonal & Publik, di mana liriknya mempraktikkan konsep:
+</p>
 
-## Lirik: Rain Watching {.unnumbered}
+<ul>
+    <li>**Memahami Komunikasi Diri (Self-Talk):** Lirik ini mencerminkan pengelolaan **Komunikasi Diri** dengan **bertindak cepat** dan langsung mencari solusi, menunjukkan *self-talk* yang konstruktif.</li>
+    <li>**Kekuatan dan Penggunaan Bahasa:** Janji yang tegas dalam lagu menunjukkan kesadaran akan **Kekuatan dan Penggunaan Bahasa** untuk membangun kepercayaan dan pondasi yang kuat.</li>
+    <li>**Mendengar:** Lirik ini mendefinisikan relasi intim sebagai **"The Quiet Place"**—sebuah refleksi pentingnya **Mendengar** sebagai fondasi yang memungkinkan ketenangan diri.</li>
+    <li>**Komunikasi Interpersonal:** Secara keseluruhan, karya ini adalah demonstrasi upaya membangun dan mengembangkan relasi yang berhasil melalui pesan personal.</li>
+</ul>
+
+<p style="text-align: justify; margin-top: 15px;">
+Secara teknis, lagu ini dibuat dengan AI musik *Suno AI* dengan genre K-Indie/R&B Chill. Fokus utama adalah pada pesan yang ingin disampaikan: keuletan, harapan, dan janji untuk masa depan yang bebas.
+</p>
+
+<h3 style="text-align: center; margin-top: 30px;">Tonton Karya Langsung</h3>
+<div style="text-align: center; margin: 20px 0;">
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/jvOu8rbCjUY" 
+          title="YouTube video player" 
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+  </iframe>
+</div>
+<hr>
+
+## 2. Lirik: The Quiet Hearth {.unnumbered}
 
 ### **[Verse 1]**
-You’re making coffee, I’m watching the rain, <br>
-Neither of us says what we can’t explain. <br>
-Your laughter still sounds like it used to do, <br>
-But it doesn’t land the same — and I think you know it too. <br>
+The path is quiet <br>
+Don't talk much<br>
+Just steady work<br>
+Every time<br>
+
+They see the move<br>
+Not the fear<br>
+I skip the falling<br>
+Straight to where<br>
 
 ### **[Pre-Chorus]**
-Every word feels like holding my breath, <br>
-Every touch like a promise we’ve kept to death. <br>
+The tears I hold<br>
+Are for the lack<br>
+The missing tool<br>
+The final gap<br>
 
 ### **[Chorus]**
-I can’t stay, but I can’t let you go, <br>
-You’re the house I built and can’t outgrow. <br>
-Every time I leave, I turn back again, <br>
-Standing in the doorway, pretending we can mend. <br>
-I can’t stay — but I don’t know how to go. <br>
+Build the Hearth<br>
+Find the safety<br>
+Fly Free<br>
+Pay the cost<br>
+You are the comfort<br>
+The reason for the run<br>
+To breathe<br>
+Without consequence<br>
 
 ### **[Verse 2]**
-Your sweater’s still hanging on the back of my chair, <br>
-I think about moving it, but I wouldn’t dare. <br>
-We dance around silence, it’s safer that way, <br>
-Love’s still in the room, but it’s starting to fade. <br>
+No fake promises<br>
+Just solid ground<br>
+Hate the noise<br>
+Love the clear sound<br><br>
 
-### **[Chorus]**
-I can’t stay, but I can’t let you go, <br>
-You’re the song I hum but can’t perform slow. <br>
-Every time I leave, I turn back again, <br>
-Just to hear you breathing like it means something. <br>
-I can’t stay — but I don’t know how to go. <br>
+I build the shelter<br>
+One strong wall<br>
+The patient hand<br>
+That secures all<br>
 
 ### **[Bridge]**
-Maybe love’s not leaving or staying, <br>
-Maybe it’s knowing when both are the same thing. <br>
+They see the action<br>
+Not the debt<br>
+This quiet strength<br>
+Is all we get<br>
+ 
+### **[Chorus]**
+Build the Hearth<br>
+Find the safety<br>
+Fly Free<br>
+Pay the cost<br>
+You are the comfort<br>
+The reason for the run<br>
+To breathe<br>
+Without consequence<br>
 
 ### **[Outro]**
-You ask if I’m cold, I say, “Just tired.” <br>
-You smile like you know I’m lying. <br>
+Just waiting for the day, where we can choose our own way...<br>
+...without ever counting the cost<br>
+Just waiting for that day

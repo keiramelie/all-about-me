@@ -1,12 +1,53 @@
-# UTS-3 My Stories for You
+---
+title: "UTS-3 My Stories for You: Menghitung Risiko Demi Gerbang Impian"
+subtitle: "Kisah Inspiratif tentang Ketekunan dan Ketegasan Pilihan"
+author: "Aucloire"
+date: "20 October 2025"
+format: 
+  html:
+    toc: false
+    css: styles.css 
+    self-contained: true
+    number-sections: true
+---
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+# My Stories for You: Menghitung Risiko Demi Gerbang Impian {.unnumbered}
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+> **Aucloire** menyajikan narasi yang membuktikan bahwa tujuan tertinggi harus dicapai melalui perhitungan yang jelas, didukung oleh ketenangan spiritual. Kisah ini adalah tentang seseorang yang mengizinkan dirinya *runtuh* sejenak, hanya untuk bangkit dengan strategi yang lebih kuat.
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+## 1. Titik Nol: Sebuah Pertanyaan yang Mengubah Arah {.unnumbered}
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+<p style="text-align: justify;">
+Awal perjalanan ini jauh dari kata mulia. Saya melalui masa SMP dan awal SMA dengan mode autopilot: sekolah bukan prioritas, tugas dicopy, dan belajar ditinggalkan. Momen kejutannya terjadi saat orang tua menyadari kondisi tersebut dan mengajukan pertanyaan krusial: **"Apa nanti kamu tidak mau lanjut SMA?"** Pertanyaan itu memantik kesadaran diri yang tajam: *masa iya? nanti di masa depan jadi apa?*. Di tengah situasi sekolah *online*, sulit untuk segera fokus, tetapi titik balik sesungguhnya datang ketika saya menetapkan tujuan tunggal: **memantapkan hati untuk masuk STEI-K ITB**. Target inilah yang menjadi kompas untuk memandu setiap langkah selanjutnya.
+</p>
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+## 2. Revolusi Kelas 11: Bertindak Cepat Menghitung Risiko {.unnumbered}
+
+<p style="text-align: justify;">
+Jika Kelas 10 adalah dasar jurang dengan nilai-nilai jeblok—salah satu yang terendah di kelas—maka Kelas 11 adalah revolusi total. Setelah memantapkan STEI-K, saya segera melakukan analisis: sekolah saya adalah sekolah "sangat nugu" di Medan, dan peluang dari jalur SNBP terasa seperti lotre yang saya tidak mampu ambil risikonya. Sesuai prinsip **bertindak cepat**, saya **mengabaikan jalur SNBP** dan fokus 100% pada ujian tertulis (UTBK). Ini adalah momen penentuan: mengakui kelemahan *eksternal* dan memaksimalkan kontrol *internal*.
+</p>
+
+<p style="text-align: justify;">
+Keputusan ini menuntut kerja keras yang tidak pernah saya alami sebelumnya. Saya mengubah cara belajar, mencari kursus terbaik (Prosus INTEN), dan Kelas 11 menjadi *turning point* dramatis: dari nilai terendah, saya berhasil meraih **Paralel 2** di kelas. Kemenangan ini membuktikan prinsip intinya: *Ternyata aku bisa kalau belajar, aku nggak bodoh ternyata*. Keyakinan inilah yang menjadi fondasi bagi perjuangan dua tahun berikutnya, meskipun dalam perjalanannya saya sempat "oleng" tertarik pada jurusan lain seperti akuntansi dan kedokteran.
+</p>
+
+<h2>3. Pertarungan Akhir: Tenang Saat Skor Menurun {.unnumbered}
+
+<p style="text-align: justify;">
+Perjalanan menuju UTBK adalah ujian pamungkas atas ketekunan saya. Mendekati hari-H, skor *tryout* justru terus menurun. Saya jatuh ke dalam **demot yang parah**—panik dan cemas, takut semua *effort* akan sia-sia. Saat itulah, H-2 UTBK, saya mencapai titik balik spiritual. Saya *take a moment to cry my heart out*, mengeluh dan mengakui keadaannya di hadapan Tuhan, meminta kekuatan untuk bangkit. Setelah momen itu, hati saya **tenang—beneran tenang**. Alih-alih istirahat, saya datang ke Inten H-1 UTBK, mencari ketenangan di lingkungan yang produktif.
+</p>
+
+<p style="text-align: justify;">
+Di hari UTBK, setiap langkah dijalani dengan teratur: membaca catatan sambil mendengarkan lagu rohani, dan berdoa sebelum setiap subtes. Tiba di hari pengumuman, gejolak emosi kembali menghantam. Saya **benar-benar deg-degan**. Saya kembali berdoa, kali ini bukan meminta kelulusan, melainkan meminta **ketenangan hati** jika tidak lolos, meminta hati yang bisa menerima dan tidak menyerah. Dua menit sebelum pengumuman, saya lari keluar, berdiri di depan Papa dan Mama, dan menekan tombol.
+</p>
+
+## 4. Final: Air Mata di Layar 'LOLOS' {.unnumbered}
+
+<p style="text-align: justify;">
+Saat layar menunjukkan: **LOLOS!** Saya langsung berteriak dan **menangis**. Papa dan Mama saya heran kenapa saya menangis padahal lolos—mereka tidak tahu, air mata itu adalah luapan dari dua tahun *effort*, dari skor yang turun drastis, dari doa yang akhirnya terjawab. Momen langka ini membuktikan, perjuangan STEI-K ini bukan hanya tentang masuk kampus, tapi tentang menemukan **kekuatan diri dan keyakinan** yang sesungguhnya.
+</p>
+
+<p style="text-align: justify; font-weight: bold; margin-top: 30px;">
+Kisah ini adalah undangan Aucloire kepada Anda untuk percaya bahwa bahkan dalam titik terendah, **bertindak cepat, menganalisis, dan mencari ketenangan spiritual** adalah langkah paling efektif untuk meraih ambisi yang tampak mustahil.
+</p>
+<hr>

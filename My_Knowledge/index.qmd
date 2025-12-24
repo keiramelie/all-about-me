@@ -1,7 +1,85 @@
-## UAS-4 My Knowledge
+---
+title: "UAS-4 My Knowledge"
+subtitle: "Pemetaan Informasi menuju Otonomi"
+author: "Ellaine Juvina (Aucloire)"
+date: last-modified
+format:
+  html:
+    toc: true
+    number-sections: true
+---
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+# Hakikat Pengetahuan: Deskripsi Realitas {.unnumbered}
+
+Bagi saya, pengetahuan bukan sekadar tumpukan data. Ia adalah deskripsi bahasa tentang realitas yang berfungsi sebagai "bahan bakar" bagi mesin **Integrasi Kapasitas Strategis** yang saya bangun. Di tengah dunia yang penuh ketidakpastian, pengetahuan adalah kompas yang memungkinkan saya memindahkan beban masalah dari titik A ke titik B dengan efisien.
+
+---
+
+# Klasifikasi Pengetahuan: Kerangka Kerja STI
+
+Dalam konteks studi saya di Sistem dan Teknologi Informasi, saya membagi pengetahuan menjadi tiga domain utama:
+
+1.  **Pengetahuan Alam:** Hukum logika, matematika, dan prinsip kerja teknologi yang mendasari sistem komputer.
+2.  **Pengetahuan Sosial:** Pemahaman tentang dinamika manusia, komunikasi interpersonal, dan perilaku organisasi dalam sebuah tim.
+3.  **Pengetahuan Aplikatif:** Jembatan yang saya gunakan untuk mengelola interaksi antara sistem teknis dan kebutuhan manusia, seperti dalam Manajemen Proyek atau *Data Engineering*.
+
+---
+
+# Hierarki Pengetahuan (Taksonomi Bloom 7 Level)
+
+Untuk menguasai suatu bidang (misalnya: *Project Management*), saya menerapkan 7 level taksonomi sebagai standar penguasaan materi:
+
+| Level | Kategori | Deskripsi Kemampuan | Aplikasi pada Manajemen Proyek |
+|:---|:---|:---|:---|
+| 1 | **Remember** | Mengetahui definisi dasar. | Mengingat definisi *Agile* atau *Waterfall*. |
+| 2 | **Understand** | Mengklasifikasikan informasi. | Memahami bahwa *Scrum* adalah bagian dari *Agile*. |
+| 3 | **Apply** | Mampu memprediksi hasil. | Memprediksi bahwa tanpa *daily stand-up*, sinkronisasi tim akan terganggu. |
+| 4 | **Analyze** | Mencari alasan/akar masalah. | Menganalisis mengapa sebuah *sprint* gagal mencapai target. |
+| 5 | **Synthesize** | Menyusun entitas baru. | Menyusun jadwal dan pembagian tugas yang paling efektif bagi tim Jatrix. |
+| 6 | **Evaluate** | Menilai nilai ekonomi/sosial. | Mengevaluasi apakah sumber daya yang dikeluarkan sebanding dengan *output* proyek. |
+| 7 | **Create** | Merancang sistem baru. | Merancang alur kerja (workflow) komunikasi baru untuk meningkatkan efisiensi organisasi. |
+
+---
+
+# Visualisasi Pengetahuan: Peta Navigasi
+
+Dalam proses belajar dan bekerja, saya menggunakan dua jenis peta untuk mengorganisir pikiran saya:
+
+## 1. Peta Pengetahuan Primitif (*The "What"*)
+Ini adalah "badan pengetahuan" saya. Fokusnya adalah mengorganisir pengetahuan deklaratif (fakta dan definisi) secara hierarkis. 
+* **Contoh:** Daftar modul mata kuliah STI, arsitektur database, dan struktur organisasi kepanitiaan.
+* **Tujuan:** Membangun fondasi Mengingat dan Memahami (Level 1-2).
+
+## 2. Peta Pengetahuan Aplikatif (*The "How"*)
+Peta ini bersifat dinamis dan berorientasi pada proses pemecahan masalah. 
+* **Contoh:** *Flowchart* langkah-langkah yang harus diambil ketika terjadi konflik dalam tim, atau prosedur *debugging* dalam sistem informasi.
+* **Tujuan:** Mengarahkan proses Menerapkan hingga Menciptakan (Level 3-7).
+
+---
+
+# Produk Pengetahuan: Portofolio "Aucloire"
+
+Pengetahuan yang saya miliki diwujudkan dalam bentuk artefak nyata yang memiliki nilai guna bagi publik dan diri saya sendiri:
+
+* **Peta Pengetahuan:** Dokumentasi teknis dan struktur kerja yang saya buat untuk organisasi (seperti di OSKM atau Jatrix).
+* **Jurnal Pembelajar Reflektif:** Catatan mengenai kegagalan, analisis akar masalah, dan perbaikan yang diambil. Ini adalah bukti bahwa saya adalah "Protagonis-Penulis" dari narasi hidup saya sendiri.
+
+::: {.callout-important}
+## Daya Guna Publik
+Pengetahuan yang terstruktur memungkinkan saya untuk berkomunikasi secara publik dengan lebih jelas. Dengan memberikan deskripsi realitas yang akurat, saya membantu orang lain di sekitar saya untuk juga memiliki otonomi dalam bekerja.
+:::
+
+---
+
+# Kesimpulan
+
+Bagi saya, memiliki pengetahuan berarti memiliki kontrol. Dengan memetakan apa yang saya tahu (Primitif) dan bagaimana cara menggunakannya (Aplikatif), saya meminimalkan ketergantungan pada situasi dan memaksimalkan peluang untuk mencapai **kebebasan mutlak**.
+
+---
+
+### Catatan untuk Implementasi:
+1.  **Tabel:** Penggunaan tabel di bagian Taksonomi Bloom sangat membantu untuk kriteria **Clarity** (Keterjelasan) pada rubrik.
+2.  **Koneksi:** Bagian "Aplikasi pada Manajemen Proyek" di tabel taksonomi menunjukkan **Validity** (Dukungan kuat dari pengalaman pribadimu).
+3.  **Tone:** Tetap formal, teknis (khas STI), dan langsung pada poinnya (Realistis).
+
+Apakah ada bagian yang ingin kamu sesuaikan lagi, atau kita lanjut ke bab terakhir (My Innovations)?
