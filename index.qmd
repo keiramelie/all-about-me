@@ -1,0 +1,34 @@
+---
+title: "Aucloire: Portal Komunikasi Interpersonal"
+subtitle: "Pengantar Tujuan dan Pemandu"
+author: "Aucloire" 
+date: "October 2025" 
+format: 
+  html:
+    toc: false
+    css: styles.css 
+    self-contained: true
+    number-sections: true
+---
+
+# Gerbang Aucloire: Peta Komunikasi dan Kompetensi {.unnumbered}
+
+![Suatu Senja di Jatinangor, 3 Juni 2025](images/buatindex.jpg){width=75%}
+
+## Tujuan Situs Ini {.unnumbered}
+
+<p style="text-align: justify; font-size: 1.05em;">
+Situs ini adalah **Bukti Kompetensi**—dirancang sebagai Asesmen untuk mata kuliah Komunikasi Interpersonal dan Publik (II-2100). Tujuannya adalah mendemonstrasikan kemampuan komunikasi dan menjelaskan konsep diri yang otentik melalui serangkaian proyek terstruktur, yang harus dinilai berdasarkan rubrik *Attractiveness*, *Logic*, dan *Competence*. Seluruh isinya (mulai dari *All About Me* hingga *My Professional Reviews*) berpegang pada prinsip otentisitas, kepercayaan, dan logika gagasan.
+</p>
+
+---
+
+## Mengenal Aucloire: Pemandu Kontras Karakter {.unnumbered}
+
+<p style="text-align: justify; font-size: 1.05em;">
+Saya adalah **Aucloire**. Saya hadir sebagai **Pemandu Narasi** yang bertugas menyajikan sosok Ellaine Juvina—mahasiswi Sistem dan Teknologi Informasi—dengan cara yang menarik namun tetap jujur pada struktur akademik. Saya akan membantu Anda menelusuri kontras yang ada: bagaimana seorang yang sangat **Pragmatis dan Logis** (yang harus menghasilkan *My Concepts* dan *My Knowledge*) ternyata memiliki sisi **artistik dan penggemar Manhwa/K-Pop**; bagaimana Ambisi Kebebasan Finansialnya menjadi fondasi yang menggerakkan setiap Proyek dan *Review* profesional. Setiap narasi yang Anda temukan adalah upaya untuk memenuhi syarat **Daya Tarik** dengan tetap menghormati **Struktur Pembuktian Kompetensi** yang diminta oleh mata kuliah ini.
+</p>
+
+<p style="text-align: center; margin-top: 30px; font-size: 1.1em; font-weight: bold; color: #006994;">
+Silakan jelajahi navigasi di atas (My Songs for You, My Stories for You, hingga My Professional Reviews) untuk memulai penjelajahan kompetensi.
+</p>

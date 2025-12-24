@@ -1,0 +1,57 @@
+---
+title: "UTS-4 My SHAPE: Piagam Diri dan Identitas Naratif"
+subtitle: "Laporan Asesmen Diri Berdasarkan Kerangka Holistik My SHAPE"
+author: "Aucloire"
+date: "October 2025"
+format: 
+  html:
+    toc: false
+    css: styles.css 
+    self-contained: true
+    number-sections: true
+---
+
+# My SHAPE: Piagam Diri Ellaine Juvina {.unnumbered}
+
+> **Aucloire** menyajikan Piagam Diri ini sebagai cerminan identitas terintegrasi. Dokumen ini adalah hasil sintesis lima dimensi fundamental yang membentuk nilai unik Ellaine Juvina.
+
+## 1. Piagam Diri (Personal Charter) {.unnumbered}
+
+<p style="text-align: justify; font-size: 1.05em; font-weight: bold;">Pernyataan Misi Pribadi:</p>
+<p style="text-align: justify; font-size: 1.05em; margin-top: -10px;">Menggunakan ketegasan berpikir, ketahanan yang teruji, dan kemampuan manajerial untuk memecahkan masalah kompleks dan menciptakan **Kemandirian Finansial** bagi diri sendiri dan orang yang dicintai.</p>
+
+<hr>
+
+## 2. Sintesis My SHAPE (Kerangka Kerja) {.unnumbered}
+
+<p style="text-align: justify;">
+Sintesis ini merangkum lima dimensi fundamental (*Signature Strengths, Heart, Aptitudes, Personality, Experiences*) yang membentuk profil Ellaine Juvina.
+</p>
+
+| Dimensi | Elemen Kunci | Deskripsi Singkat |
+| :--- | :--- | :--- |
+| **S** | **Signature Strengths** | **Fokus Aksi Cepat:** Transisi cepat ke analisis dan solusi saat menghadapi kemunduran. **Ketegasan Standar:** Dedikasi pada target, tidak toleran pada penundaan atau alasan tanpa dasar yang jelas. |
+| **H** | **Heart (Nilai Inti & Gairah)** | **Otonomi & Kebebasan:** Tujuan hidup utama: mencapai Kemandirian Finansial. **Keteraturan:** Menghargai koordinasi tim dan benci ketidakjelasan proses. **Gairah:** Manhwa & K-Pop sebagai pelepasan energi terstruktur. |
+| **A** | **Aptitudes & Acquired Skills** | **Bakat Alami:** Berpikir Analitis dan Sistematis, Disiplin Presisi Tinggi (Balet). **Keterampilan Teknis:** Data Analysis (Python), Project Planning & Execution. |
+| **P** | **Personality** | **MBTI: INTP (The Logician):** Termotivasi oleh sistem, ide, dan proses yang efisien. **Gaya Kerja:** Analitis, Mandiri, Fokus pada Penciptaan Keteraturan. |
+| **E** | **Experiences** | **Disiplin Balet:** Mengajarkan presisi dan konsistensi melalui ujian. **Krisis UTBK:** Membuktikan bahwa ketahanan sejati datang dari aksi cepat dan iman. **Organisasi/Proyek:** Belajar menyeimbangkan *deliverables* dengan keharmonisan tim. |
+
+<hr>
+
+## 3. Identitas Naratif (Kisah Diri) {.unnumbered}
+
+<p style="text-align: justify; font-size: 1.05em;">
+Identitas naratif ini adalah kisah yang mengubah data Piagam Diri di atas menjadi alur yang koheren.
+</p>
+
+<p style="text-align: justify;">
+Saat ini, Ellaine Juvina adalah mahasiswa STEI-K ITB yang berdedikasi tinggi pada **logika INTP** (P). Perjalanan ini dibentuk oleh disiplin presisi tinggi sejak dini: saya dilatih oleh **Balet** (E) untuk menghargai setiap detail dan konsistensi, sebuah kekuatan (S) yang kemudian saya terapkan pada **Project Management dan Analisis Data** (A). Nilai inti saya adalah (**Otonomi/Kebebasan**, H): Visi hidup saya adalah mencapai Kemandirian Finansial, dan prinsip INTP saya mengubah segala sesuatu menjadi **investasi yang logis** untuk mencapai kebebasan itu.
+</p>
+
+<p style="text-align: justify;">
+Kekuatan khas saya adalah **Fokus Aksi Cepat** (S): saat mengalami kemunduran, saya mengaktifkan mode analisis, **transisi cepat ke solusi**, dan menghindari tenggelam dalam *complaining*. Kekuatan ini teruji saat saya membuat keputusan logis untuk **mengabaikan jalur SNBP** dan fokus 100% pada ujian tertulis (E)—sebuah langkah yang membawa saya menjadi alumni pertama di STEI-K. Gaya kepemimpinan ini (P) didorong oleh kebutuhan akan **kejelasan sistem** (H), yang memastikan fondasi yang saya bangun untuk masa depan bebas kami semua haruslah kokoh dan terhindar dari konsekuensi negatif.
+</p>
+
+<p style="text-align: justify; font-weight: bold; margin-top: 30px;">
+Dengan Piagam Diri ini, saya menawarkan diri saya kepada dunia: seorang pemimpin yang membawa **ketegasan analitis** ke dalam setiap proyek, didorong oleh **janji Kemandirian Mutlak** di masa depan, dan diuji oleh **ketahanan yang menolak keraguan**.
+</p>

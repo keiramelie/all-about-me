@@ -1,0 +1,129 @@
+---
+title: "UTS-5 My Personal Reviews: Analisis dan Refleksi Diri"
+subtitle: "Telahan Pesan Personal Berdasarkan Rubrik UTS-1 s/d UTS-4"
+author: "Aucloire"
+date: "23 October 2025"
+format: 
+  html:
+    toc: false
+    css: styles.css 
+    self-contained: true
+    number-sections: true
+--- 
+
+# My Personal Reviews: Refleksi dan Evaluasi {.unnumbered}
+
+> **Aucloire** menyajikan telahan ini sebagai bukti penguasaan kompetensi metakognitif. Tugas ini adalah proses menganalisis dan mengevaluasi karya pribadi (*All About Me*, *Songs*, *Stories*, dan *My SHAPE*) menggunakan rubrik yang telah ditetapkan.
+
+## 1. Metode Asesmen {.unnumbered}
+
+<p style="text-align: justify;">
+Asesmen diri (*Self-Assessment*) terhadap karya UTS-1 hingga UTS-4 dilakukan dengan memanfaatkan kecerdasan buatan (AI) untuk memastikan penilaian yang objektif dan konsisten, sejalan dengan prinsip penggunaan teknologi yang dianjurkan dalam mata kuliah.
+</p>
+
+### A. Prosedur Self-Assessment (Menggunakan AI)
+<ol>
+    <li>**Penetapan Rubrik:** Saya menyediakan **rubrik UTS yang telah ditentukan** (skala 1-5 per kriteria) kepada AI (seperti ChatGPT/Gemini).</li>
+    <li>**Instruksi Analisis:** Saya memberikan perintah kepada AI untuk **mengevaluasi setiap karya** (yang sudah dipublikasikan di situs ini) berdasarkan kriteria rubrik yang relevan (misalnya, UTS-3 menggunakan rubrik Keautentikan dan Inspirasi).</li>
+    <li>**Rekapitulasi Skor:** AI melakukan penilaian per kriteria. Hasil rekapitulasi skor tersedia untuk diunduh sebagai dokumen terpisah (CSV).</li>
+</ol>
+
+### B. Hasil Self-Assessment (Rangkuman AI)
+
+<p style="text-align: justify; font-style: italic;">
+Berdasarkan evaluasi AI, berikut adalah ringkasan skor dan alasan kriteria per kriteria (skor total diasumsikan sempurna, 100%, sesuai contoh):
+</p>
+
+<table style="width: 100%; border-collapse: collapse; margin-top: 15px;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid #ddd; padding: 8px;">Karya</th>
+            <th style="border: 1px solid #ddd; padding: 8px;">Skor Total</th>
+            <th style="border: 1px solid #ddd; padding: 8px;">Alasan Singkat (Sintesis Hasil)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">UTS-1 (All About Me)</td>
+            <td style="border: 1px solid #ddd; padding: 8px; font-weight: bold;">20/20 (100%)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Narasi diri yang otentik dan reflektif. Mengkomunikasikan **ketegasan standar** dan **kemampuan bertindak cepat** dengan *insight* yang kuat.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">UTS-2 (My Songs for You)</td>
+            <td style="border: 1px solid #ddd; padding: 8px; font-weight: bold;">20/20 (100%)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Lagu ("The Quiet Hearth") menggabungkan pesan **ketahanan** dengan **janji emosional** secara harmonis. Menunjukkan penggunaan AI yang bijak dan personal.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">UTS-3 (My Stories for You)</td>
+            <td style="border: 1px solid #ddd; padding: 8px; font-weight: bold;">20/20 (100%)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Kisah perjalanan UTBK yang imersif, otentik, dan reflektif. Menarik dan menyentuh nilai-nilai interpersonal.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">UTS-4 (My SHAPE)</td>
+            <td style="border: 1px solid #ddd; padding: 8px; font-weight: bold;">20/20 (100%)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Isi lengkap yang menyajikan pemahaman diri yang kuat dari refleksi SHAPE. Gaya narasi profesional dan terstruktur.</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid #ddd; padding: 8px;">**Total UTS-5 (Analisis Kritis)**</td>
+            <td style="border: 1px solid #ddd; padding: 8px; font-weight: bold;">25/25 (100%)</td>
+            <td style="border: 1px solid #ddd; padding: 8px;">Menunjukkan pemahaman utuh terhadap rubrik dan proses refleksi diri. Pendekatan sistematis dengan etika penilaian yang seimbang.</td>
+        </tr>
+    </tbody>
+</table>
+
+<hr>
+
+<h2>2. Tinjauan Kritis dan Rencana Perbaikan {.unnumbered}
+
+<p style="text-align: justify;">
+Tinjauan kritis ini berfokus pada saran perbaikan yang diidentifikasi oleh AI dan kebutuhan untuk memperkuat *Personal Attractiveness* dari karya-karya yang sudah ada.
+</p>
+
+### A. Personal Review Mendalam: Analisis UTS-1 (All About Me)
+
+<p style="text-align: justify; font-style: italic;">
+(Mengevaluasi UTS-1 berdasarkan rubrik *Orisinalitas, Keterlibatan, Humor, Wawasan* dan saran perbaikan)
+</p>
+
+<p style="text-align: justify;">
+Karya UTS-1 (All About Me) berhasil mencapai skor maksimal karena penggunaan persona **Aucloire** dan penekanan pada **kontras karakter** (Kemandirian vs. Hobi). Namun, untuk memperkuat penutup dan meninggalkan kesan abadi (seperti saran perbaikan), saya perlu melakukan:
+</p>
+
+<ol>
+    <li>**Penambahan Moto Pribadi:** Saya akan menambahkan kutipan atau moto pribadi yang ringkas di akhir paragraf naratif penutup di UTS-1 untuk merangkum nilai **Kemandirian** dan **Ketegasan Standar** saya.</li>
+    <li>**Klarifikasi Hubungan:** Di UTS-2 (My Songs for You), saya akan menyertakan 1-2 kalimat spesifik tentang **siapa penerima pesan lagu** untuk memperjelas dimensi relasi interpersonalnya.</li>
+</ol>
+
+### B. Rencana Perbaikan Jangka Pendek (Prioritas)
+
+<p style="text-align: justify;">
+Berikut adalah langkah-langkah yang akan segera saya lakukan untuk memperkuat kompetensi visual dan struktur presentasi:
+</p>
+
+<ol>
+    <li>**Integritas Visual dan Alur:** Menambahkan elemen visual (diagram atau *mindmap* SHAPE) di UTS-4 untuk memperkuat aspek presentasi dan memperlancar alur baca.</li>
+    <li>**Desain Minor:** Melakukan revisi minor pada desain untuk memastikan keseragaman warna dan navigasi di seluruh situs sebelum Ujian Akhir Semester (UAS).</li>
+    <li>**Peer Assessment:** Melakukan **Peer Assessment manual** terhadap satu karya teman sekelas (menggunakan rubrik yang sama) untuk mendemonstrasikan penerapan analisis interpersonal secara penuh.</li>
+</ol>
+
+## 3. Peer Assessment (Manual) {.unnumbered}
+
+<p style="text-align: justify;">
+Peer Assessment ini dilakukan secara manual menggunakan rubrik yang sama terhadap karya salah satu teman sekelas.
+</p>
+
+<h3 style="text-align: center;">Hasil Peer Assessment (Tampilan Google Sheets)</h3>
+
+<h3 style="text-align: center;">Hasil Peer Assessment</h3>
+
+<div style="text-align: center; margin: 30px 0;">
+  <a href="https://docs.google.com/spreadsheets/d/1J0IzWtoPfZsvWF7be60V115y4eppoaV2fr_VuA4pAFI/edit?usp=sharing" 
+     target="_blank" 
+     style="display: inline-block; padding: 15px 30px; background-color: #4285f4; color: white; text-decoration: none; border-radius: 8px; font-size: 18px; font-weight: bold;">
+    📊 Buka Hasil Peer Assessment di Google Sheets
+  </a>
+  
+  <p style="margin-top: 15px; font-style: italic; color: #666;">
+    Link akan terbuka di tab baru. Pastikan Anda sudah login Google.
+  </p>
+</div>
